@@ -36,9 +36,11 @@ public class MapGenerator : MonoBehaviour {
 				}
 			}
 		}
+        float[,] secondMap = Noise.GenerateNoiseMap(mapWidth, mapHeight, seed+69, noiseScale, octaves, persistance, lacunarity, offset);
 
-		TilemapDisplay tmDisplay = FindObjectOfType<TilemapDisplay>();
-		tmDisplay.buildTilemap(noiseMap, mapWidth, mapHeight);
+        TilemapDisplay tmDisplay = FindObjectOfType<TilemapDisplay>();
+		tmDisplay.buildTilemap(noiseMap, FeatureGenerator.buildFeatures(noiseMap, secondMap, mapWidth, mapHeight),
+            mapWidth, mapHeight);
 
 		MapRenderer render = FindObjectOfType<MapRenderer> ();
 		if (drawMode == DrawMode.NoiseMap) {
