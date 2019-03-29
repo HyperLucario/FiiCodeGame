@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 99d609f1f8a7e574e8689fd67ff57e3c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_0
+    21300002: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_1
+    21300004: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_2
+    21300006: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_3
+    21300008: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_4
+    21300010: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_5
+    21300012: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_6
+    21300014: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_7
+    21300016: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_8
+    21300018: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_9
+    21300020: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_10
+    21300022: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_11
+    21300024: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_12
+    21300026: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_13
+    21300028: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_14
+    21300030: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_15
+    21300032: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_16
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 824
+        width: 407
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d51f4640561844a81f4f2e81665976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 791
+        width: 328
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ef72d4dacbead459e481678ef8a8ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 843
+        width: 420
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceea31010a323314f96ba86d01521e55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 440
+        width: 361
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777abe702ae19747985a40d2ca8eba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_4
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 444
+        width: 374
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970a18a532f8e6a498a1448455d368c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_5
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 453
+        width: 353
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5656805af1b61814eb57dbcd4e92f190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_6
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 50
+        width: 390
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45be1275b4682d54ea863adda797251a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_7
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 58
+        width: 302
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4eb6de1b8cacc4cadeb3440ce0fafa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 258
+        width: 115
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242cfe5248ce724288ce49681841f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 258
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334f11b2c68fa4a4faac8b02159759c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 260
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4faac79e8c74e0428f20af15239cbfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 139
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad97f1569b37e1b41978ef8347bc6590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 140
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc17184312deb419287d051c4fdb9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 139
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7842b06b857f7344d93bf095f3668ff2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 19
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0844bc24b16a5354094ca390a433571f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 19
+        width: 89
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e230444d7273dd84b9b65ed86b8db614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41896248-industrial-buldings-isometric-icons-set-with-3d-plants-and-factories-isolated-vector-illust_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 21
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1622326a755c484dad2c125044c4968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 46ac49682b58e4f469a18c1d21b300e6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
