@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -66,6 +67,15 @@ public class InGameButtonsScript : MonoBehaviour
         SceneManager.LoadScene(sceneToChangeTo);
     }
 
+    public void endGame()
+    {
+        string path = Application.persistentDataPath + "/save.fmm";
+        if (File.Exists(path))
+        {
+            File.Delete(path);
+            SceneManager.LoadScene("MainMenu");
+        }
+    }
     private void Update()
     {
         if (panelP.activeSelf == true)

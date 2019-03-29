@@ -12,7 +12,7 @@ public class TimeManager : MonoBehaviour
     public int speed = 2, nrTilesToFlood = 200;
     private int last = -1;
 
-    public GameObject obj, tornadoPrefab;
+    public GameObject obj, tornadoPrefab, deadScreen;
     public buildingIncomes[] incomes;
     public TextMeshProUGUI popText, energyText, daysText, woodText, stoneText, brickText, glassText, metalText, oilText, coalText, biofuelText, uraniumText, sourcesText, totalPanelText, foodWaterText, islandNameText;
     public Sprite waterSprite, blankSprite;
@@ -39,7 +39,6 @@ public class TimeManager : MonoBehaviour
     {
         int time = (int) Time.time + 1;
         int availableSpace = Global.buildings[4] * 5 + Global.buildings[5] * 15 + Global.buildings[6] * 30;
-
         slider.GetComponent<Slider>().value = 100 - Global.pollution;
 
         if (time % speed == 0 && time != last && ok)
@@ -101,9 +100,14 @@ public class TimeManager : MonoBehaviour
                 if (Global.population > availableSpace)
                     Global.pollution += (Global.population - availableSpace) / 15;
                 if (Global.water < 0)
-                    Global.population += (Global.water / 10) - 1;
+                    Global.population += (Global.water / 4) - 1;
                 if (Global.food < 0)
-                    Global.population += (Global.food / 10) - 1;
+                    Global.population += (Global.food / 4) - 1;
+                if (Global.population < 0)
+                {
+                    speed = 0;
+                    deadScreen.SetActive(true);
+                }
                 System.Random rnd = new System.Random();
                 int nrRand = rnd.Next(1, 100);
                 Debug.Log(nrRand + " " + Global.pollution / 4);
